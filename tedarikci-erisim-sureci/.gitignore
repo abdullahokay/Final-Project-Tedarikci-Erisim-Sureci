@@ -21,5 +21,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-tedarikci-erisim-sureci/package.json
-tedarikci-erisim-sureci/package-lock.json
