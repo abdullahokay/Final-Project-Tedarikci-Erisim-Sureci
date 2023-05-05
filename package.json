@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "material-design-icons-iconfont": "^6.7.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.2.96"
+  }
+}
